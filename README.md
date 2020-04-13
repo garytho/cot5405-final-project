@@ -2,4 +2,4 @@
 
 * [Final Project Proposal](https://github.com/garytho/cot5405-final-project/blob/master/FinalProjectProposal.pdf)
 * [Final Project Research Paper]()
-* [Randomized Algorithm Implementation](https://github.com/garytho/cot5405-final-project/blob/master/psus_algorithm.py)
+* [PSUS Algorithm Implementation](https://github.com/garytho/cot5405-final-project/blob/master/psus_algorithm.py)
