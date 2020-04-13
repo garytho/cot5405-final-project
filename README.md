@@ -2,3 +2,4 @@
 
 * [Final Project Proposal](https://github.com/garytho/cot5405-final-project/blob/master/FinalProjectProposal.pdf)
 * [PSUS Algorithm Implementation](https://github.com/garytho/cot5405-final-project/blob/master/psus_algorithm.py)
+* [Final Project Paper Report](https://github.com/garytho/cot5405-final-project/blob/master/Final_Project_Paper.pdf)
